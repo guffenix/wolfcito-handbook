@@ -14,7 +14,15 @@
   "author": "Luis Fernando Ushiña <guffenix@gmail.com>",
   "license": "MIT",
   "bin": {
-    "good-tip": "./bin/global.js"
+    "good-tip": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guffenix/wolfcito-handbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guffenix/wolfcito-handbook/issues"
+  },
+  "homepage": "https://github.com/guffenix/wolfcito-handbook#readme"
 }
