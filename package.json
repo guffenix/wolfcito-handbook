@@ -1,0 +1,20 @@
+{
+  "name": "wolfcito-messages",
+  "version": "1.0.0",
+  "description": "good wolf handbook",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Luis Fernando Ushiña <guffenix@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "good-tip": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
